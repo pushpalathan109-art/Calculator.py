@@ -27,6 +27,7 @@ def main():
 
    while True:
         choice = input("\nEnter choice (1/2/3/4/5): ")
+        
    if choice == '5':
             print("Goodbye!")
             break
